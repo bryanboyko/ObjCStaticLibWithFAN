@@ -17,3 +17,4 @@ FOUNDATION_EXPORT const unsigned char ObjCStaticFrameworkWithFANVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <ObjCStaticFrameworkWithFAN/PublicHeader.h>
 
 
+#import <ObjCStaticFrameworkWithFAN/ObjCStaticLibWithFAN.h>
