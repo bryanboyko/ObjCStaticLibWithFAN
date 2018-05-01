@@ -1,0 +1,16 @@
+PODS:
+  - FBAudienceNetwork (4.27.2)
+
+DEPENDENCIES:
+  - FBAudienceNetwork (= 4.27.2)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FBAudienceNetwork
+
+SPEC CHECKSUMS:
+  FBAudienceNetwork: 84fc420e262ae16b30586861fa11dd9c779336a8
+
+PODFILE CHECKSUM: db0ba0a2efa71153e3083d52de9761ab90abf983
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,6 @@
+framework module ObjCStaticFrameworkWithFAN {
+  umbrella header "ObjCStaticFrameworkWithFAN.h"
+
+  export *
+  module * { export * }
+}
