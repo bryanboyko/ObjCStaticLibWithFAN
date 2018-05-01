@@ -8,6 +8,10 @@
 		<data>
 		XYk8cAW5bWhQ+wxMVipoLgs8uow=
 		</data>
+		<key>Headers/ObjCStaticLibWithFAN.h</key>
+		<data>
+		MJvb2M7j0x/m7Z7/Kuam6ln9Ez0=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		2V+MPlCRkwWDsGx3Hyt8IK2a/+c=
@@ -28,6 +32,17 @@
 			<key>hash2</key>
 			<data>
 			dlcBe2gy7Lim4w74uuJR3VBDlZTso2Y7q7Q5dXcECLs=
+			</data>
+		</dict>
+		<key>Headers/ObjCStaticLibWithFAN.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MJvb2M7j0x/m7Z7/Kuam6ln9Ez0=
+			</data>
+			<key>hash2</key>
+			<data>
+			TrRD0ynL8yQp+2JWODWTqSJlS1qQc4GQ6gZYdzFi6iM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

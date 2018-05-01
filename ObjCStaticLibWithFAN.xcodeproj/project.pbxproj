@@ -21,6 +21,7 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		199D2AB42099361D0070519A /* ObjCStaticLibWithFAN.h in Headers */ = {isa = PBXBuildFile; fileRef = 199F83942092686E00A8C423 /* ObjCStaticLibWithFAN.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		199F83962092686E00A8C423 /* ObjCStaticLibWithFAN.m in Sources */ = {isa = PBXBuildFile; fileRef = 199F83952092686E00A8C423 /* ObjCStaticLibWithFAN.m */; };
 		199F83972092686E00A8C423 /* ObjCStaticLibWithFAN.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 199F83942092686E00A8C423 /* ObjCStaticLibWithFAN.h */; };
 		199F84AD2097EA9B00A8C423 /* ObjCStaticFrameworkWithFAN.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 199F84A42097EA9B00A8C423 /* ObjCStaticFrameworkWithFAN.framework */; };
@@ -168,6 +169,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				199F84B42097EA9B00A8C423 /* ObjCStaticFrameworkWithFAN.h in Headers */,
+				199D2AB42099361D0070519A /* ObjCStaticLibWithFAN.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
