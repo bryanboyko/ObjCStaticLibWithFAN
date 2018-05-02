@@ -22,6 +22,9 @@
 
 /* Begin PBXBuildFile section */
 		199D2AB42099361D0070519A /* ObjCStaticLibWithFAN.h in Headers */ = {isa = PBXBuildFile; fileRef = 199F83942092686E00A8C423 /* ObjCStaticLibWithFAN.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		199D2AB720993CA70070519A /* ObjCStaticLibNOFAN.m in Sources */ = {isa = PBXBuildFile; fileRef = 199D2AB620993CA70070519A /* ObjCStaticLibNOFAN.m */; };
+		199D2AB820993CB00070519A /* ObjCStaticLibNOFAN.h in Headers */ = {isa = PBXBuildFile; fileRef = 199D2AB520993CA70070519A /* ObjCStaticLibNOFAN.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		199D2AB920993CB00070519A /* ObjCStaticLibNOFAN.m in Sources */ = {isa = PBXBuildFile; fileRef = 199D2AB620993CA70070519A /* ObjCStaticLibNOFAN.m */; };
 		199F83962092686E00A8C423 /* ObjCStaticLibWithFAN.m in Sources */ = {isa = PBXBuildFile; fileRef = 199F83952092686E00A8C423 /* ObjCStaticLibWithFAN.m */; };
 		199F83972092686E00A8C423 /* ObjCStaticLibWithFAN.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 199F83942092686E00A8C423 /* ObjCStaticLibWithFAN.h */; };
 		199F84AD2097EA9B00A8C423 /* ObjCStaticFrameworkWithFAN.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 199F84A42097EA9B00A8C423 /* ObjCStaticFrameworkWithFAN.framework */; };
@@ -54,6 +57,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		199D2AB520993CA70070519A /* ObjCStaticLibNOFAN.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ObjCStaticLibNOFAN.h; sourceTree = "<group>"; };
+		199D2AB620993CA70070519A /* ObjCStaticLibNOFAN.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ObjCStaticLibNOFAN.m; sourceTree = "<group>"; };
 		199F83912092686E00A8C423 /* libObjCStaticLibWithFAN.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libObjCStaticLibWithFAN.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		199F83942092686E00A8C423 /* ObjCStaticLibWithFAN.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ObjCStaticLibWithFAN.h; sourceTree = "<group>"; };
 		199F83952092686E00A8C423 /* ObjCStaticLibWithFAN.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ObjCStaticLibWithFAN.m; sourceTree = "<group>"; };
@@ -139,6 +144,8 @@
 			children = (
 				199F83942092686E00A8C423 /* ObjCStaticLibWithFAN.h */,
 				199F83952092686E00A8C423 /* ObjCStaticLibWithFAN.m */,
+				199D2AB520993CA70070519A /* ObjCStaticLibNOFAN.h */,
+				199D2AB620993CA70070519A /* ObjCStaticLibNOFAN.m */,
 			);
 			path = ObjCStaticLibWithFAN;
 			sourceTree = "<group>";
@@ -168,6 +175,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				199D2AB820993CB00070519A /* ObjCStaticLibNOFAN.h in Headers */,
 				199F84B42097EA9B00A8C423 /* ObjCStaticFrameworkWithFAN.h in Headers */,
 				199D2AB42099361D0070519A /* ObjCStaticLibWithFAN.h in Headers */,
 			);
@@ -333,6 +341,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				199D2AB720993CA70070519A /* ObjCStaticLibNOFAN.m in Sources */,
 				199F83962092686E00A8C423 /* ObjCStaticLibWithFAN.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -341,6 +350,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				199D2AB920993CB00070519A /* ObjCStaticLibNOFAN.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -6,7 +6,11 @@
 	<dict>
 		<key>Headers/ObjCStaticFrameworkWithFAN.h</key>
 		<data>
-		XYk8cAW5bWhQ+wxMVipoLgs8uow=
+		cF63pCKXi1y+6MIhxSYt8/R71O4=
+		</data>
+		<key>Headers/ObjCStaticLibNOFAN.h</key>
+		<data>
+		aAt6YDt1QHSNSiux6PU8ZPyY7pk=
 		</data>
 		<key>Headers/ObjCStaticLibWithFAN.h</key>
 		<data>
@@ -27,11 +31,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XYk8cAW5bWhQ+wxMVipoLgs8uow=
+			cF63pCKXi1y+6MIhxSYt8/R71O4=
 			</data>
 			<key>hash2</key>
 			<data>
-			dlcBe2gy7Lim4w74uuJR3VBDlZTso2Y7q7Q5dXcECLs=
+			flrQp3oUGcdtX/wfTBlMaRRKmQkuhNhxrwzUC8ltXBk=
+			</data>
+		</dict>
+		<key>Headers/ObjCStaticLibNOFAN.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aAt6YDt1QHSNSiux6PU8ZPyY7pk=
+			</data>
+			<key>hash2</key>
+			<data>
+			0jVLqk9I6Wq9SC/vKjBjP1xI4H2MVz1bs01WvsY6qHc=
 			</data>
 		</dict>
 		<key>Headers/ObjCStaticLibWithFAN.h</key>

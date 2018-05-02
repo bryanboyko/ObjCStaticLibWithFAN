@@ -18,3 +18,4 @@ FOUNDATION_EXPORT const unsigned char ObjCStaticFrameworkWithFANVersionString[];
 
 
 #import <ObjCStaticFrameworkWithFAN/ObjCStaticLibWithFAN.h>
+#import <ObjCStaticFrameworkWithFAN/ObjCStaticLibNOFAN.h>
